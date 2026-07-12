@@ -3,6 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
+license = "MIT"
 name = "plato-fflearning"
 version = "0.1.0"
 description = "Forward-Forward learning for PLATO — replacing backprop with positive/negative passes"
